@@ -1,0 +1,6 @@
+{
+  "name": "McDonald's Korea Signature Showcase & Store Locator",
+  "description": "Interactive McDonald's Korea signature burger showcase with 2D illustrations, 3D exploded recipe layers, custom meal nutrition simulator, and nationwide store locator.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
